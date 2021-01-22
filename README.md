@@ -1,0 +1,2 @@
+# Ruby_ancestors
+Ruby技術者認定試験対策の継承関係をまとめてみる
